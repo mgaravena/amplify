@@ -1,0 +1,3 @@
+  Instalar react
+  Creacion de componentes
+  Instalacion de tailwind
